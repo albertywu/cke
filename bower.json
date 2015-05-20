@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor-mosaic",
+  "name": "ckeditor-mosaic-dev",
   "version": "0.0.0",
   "homepage": "https://github.com/albertywu/cke",
   "authors": [
@@ -13,7 +13,8 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-    "ckeditor-dev": "https://github.com/ckeditor/ckeditor-dev.git#~4.4.7"
+  "dependencies": {},
+  "devDependencies": {
+    "ckeditor-dev": "~4.4.7"
   }
 }

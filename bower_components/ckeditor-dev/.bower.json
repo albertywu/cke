@@ -8,7 +8,8 @@
     "tag": "4.4.7",
     "commit": "3a35b3d7ec67959c3e1d292eb835b1ac099edb72"
   },
-  "_source": "https://github.com/ckeditor/ckeditor-dev.git",
+  "_source": "git://github.com/ckeditor/ckeditor-dev.git",
   "_target": "~4.4.7",
-  "_originalSource": "https://github.com/ckeditor/ckeditor-dev.git"
+  "_originalSource": "ckeditor-dev",
+  "_direct": true
 }
